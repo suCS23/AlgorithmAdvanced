@@ -115,4 +115,4 @@ def sort_steps(list):
     print("|==============[ Done ]==============|")
     print(f"\nAfter sorting : {sorted}\n")
 
-sort_steps([67,33,93,10,12,32])
+sort_steps([67,33,93,10,12,32,1,1,1,1,1,43,532,32,43,43])
